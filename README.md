@@ -1,15 +1,51 @@
-# Swap Numbers Program (Beginner Python Project)
+Priyanshu’s Python Journey
 
-This repository contains a simple Python program that swaps the values of two numbers.
+A beginner-friendly collection of Python programs built on mobile (Pydroid) and uploaded to GitHub.
+Goal: build strong programming foundations for future MIT-level projects.
 
-## Technologies Used
-- Python 3
 
-## What I learned
-- Taking user input in Python
-- Basic variable usage
-- Correct logic for swapping
+---
 
-## Future Goals
-- Add more beginner-level Python programs
-- Start using GitHub for tracking my coding journey
+Projects Completed
+
+1. Swap Two Numbers (swap.py)
+
+A simple program that swaps values of two variables using Python.
+
+Concepts learned:
+
+Input handling
+
+Type conversion
+
+Variable assignment
+
+Tuple-swap in Python
+
+
+Usage:
+
+python swap.py
+
+
+---
+
+Upcoming Projects
+
+Calculator
+
+Temperature converter
+
+Pattern generator
+
+Number guessing game
+
+Basic data visualizer
+
+
+
+---
+
+About This Repository
+
+This repo tracks Priyanshu’s coding progress from zero → strong fundamentals → future MIT projects.
